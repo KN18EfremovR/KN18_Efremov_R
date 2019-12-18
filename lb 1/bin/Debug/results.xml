@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Eng_Calc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <first_number>1.4</first_number>
+  <second_number>1.4</second_number>
+  <oper>sin</oper>
+  <result>0.98544972998846014</result>
+</Eng_Calc>
